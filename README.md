@@ -20,7 +20,7 @@ Página desenvolvida através das tecnologias:
 <br>
 
 # :pushpin: Sobre
-Página desenvolvida com base no vídeo <strong><a href="" target="_blank">XXXX</a></strong> do <a href="https://github.com/rafaballerini" target="_blank">@XXX</a>.
+Página desenvolvida com base no vídeo <strong><a href="https://www.youtube.com/watch?v=G4_QjTJTVlc&ab_channel=FelipeRocha%E2%80%A2dicasparadevs" target="_blank">Fazendo um site TOTALMENTE RESPONSIVO e Mobile-Friendly - HTML & CSS</a></strong> do <a href="https://github.com/felipemotarocha" target="_blank">@felipemotarocha</a>.
 
 <br>
 
